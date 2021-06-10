@@ -1,5 +1,7 @@
 # SerenityOS
 
+EDITED VERSION BY TOBEY RAGAIN (COMMANDER_QUAZAR)
+
 Graphical Unix-like operating system for x86 computers.
 
 [![Build status](https://github.com/SerenityOS/serenity/workflows/Build,%20lint,%20and%20test/badge.svg)](https://github.com/SerenityOS/serenity/actions?query=workflow%3A"Build%2C%20lint%2C%20and%20test")
